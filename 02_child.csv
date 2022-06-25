@@ -1,0 +1,4 @@
+parent_id,child_id,FirstName,MidName,LastName,StreetName,PostalCode,HouseNumber,Country
+1,1,Frank,NULL,Josh,"W Calderwood Street, Meridian,id",83642,9,"United States"
+2,2,Aishatu,Abu,Abdullahi,"Boulevard De La Liberation, Dakar",NULL,39,Senegal
+2,3,Yousuff,Abu,Abdullahi,"Boulevard De La Liberation, Dakar",NULL,39,Senegal
